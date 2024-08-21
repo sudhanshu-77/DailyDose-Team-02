@@ -6,8 +6,8 @@
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js",
-    "build": "echo 'No build step necessary'",
-    "postinstall": "npm install"
+    "build": "echo 'No build step necessary'"
+    
   },
   "author": "Sudhanshu Tripathi",
   "license": "ISC",
