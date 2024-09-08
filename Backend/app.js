@@ -32,11 +32,24 @@ app.use((err, req, res, next) => {
 });
 
 // Connect to MongoDB
+// mongoose.connect(process.env.MongoDBURL)
+//   .then(() => {
+//     console.log('App connected to the database');
+//     app.listen(process.env.Port, () => {
+//       console.log(`Server is running at port ${process.env.Port}`);
+//     });
+//   })
+//   .catch((error) => {
+//     console.error('Error connecting to the database:', error);
+//   });
+
+const port = process.env.Port || 3000; // Default to port 3000 if process.env.Port is not defined
+
 mongoose.connect(process.env.MongoDBURL)
   .then(() => {
     console.log('App connected to the database');
-    app.listen(process.env.Port, () => {
-      console.log(`Server is running at port ${process.env.Port}`);
+    app.listen(port, () => {
+      console.log(`Server is running at port ${port}`);
     });
   })
   .catch((error) => {
