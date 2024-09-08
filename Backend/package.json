@@ -4,11 +4,10 @@
   "description": "dailydose backend",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
-    "dev": "nodemon app.js",
-    "build": "echo 'No build step necessary'"
-    
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
+    
   "author": "Sudhanshu Tripathi",
   "license": "ISC",
   "type": "module",
