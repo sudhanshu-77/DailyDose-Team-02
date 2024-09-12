@@ -5,7 +5,7 @@
 <a><img src="https://img.shields.io/github/forks/sudhanshu-77/DailyDose"></a>
 <a><img src="https://img.shields.io/github/stars/sudhanshu-77/DailyDose"></a>
   
-[![](https://visitcount.itsvg.in/api?id=sudhanshu-77-dailydose&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sudhanshu-77-dailydose&label=Profile%20Views&color=701A75&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
