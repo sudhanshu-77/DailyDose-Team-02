@@ -1,6 +1,6 @@
 <h1 align="center">DailyDose - Empowering Seniors with Personalized Healthcare</h1>
 <div align="center">
-<a href="https://github.com/sudhanshu-77/AirTracker/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/DailyDose"></a>
+<a href="https://github.com/sudhanshu-77/DailyDose/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/DailyDose"></a>
 <a><img src="https://img.shields.io/github/forks/sudhanshu-77/DailyDose"></a>
 <a><img src="https://img.shields.io/github/stars/sudhanshu-77/DailyDose"></a>
 </div>
@@ -35,7 +35,7 @@ DailyDose is a versatile web application accessible on various devices with web 
 It uses APIs for enhanced functionality and incorporate features for seamless goal reminder and habit management.
 
 Features:
-The following are the key features of the AirTracker application:
+The following are the key features of the DailyDose application:
 * User Authentication
 * Post Creation, Editing, and Deletion
 
