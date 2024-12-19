@@ -1,4 +1,4 @@
-<h1 align="center">DailyDose - Empowering Seniors with Personalized Healthcare</h1>
+<h1 align="center">DailyDose</h1>
 <div align="center">
 <a href="https://github.com/sudhanshu-77/DailyDose/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/sudhanshu-77/DailyDose?color=2b9348"></a>
 <a href="https://github.com/sudhanshu-77/DailyDose/issues"><img src="https://img.shields.io/github/issues/sudhanshu-77/DailyDose"></a>
